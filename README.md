@@ -22,7 +22,7 @@ pytest test_student_manager.py -v  # 运行测试
 ```
 
 ## 📊 测试报告截图
-![Allure测试报告]()
+![Allure测试报告](http://192.168.10.9:37867/index.html)
 
 ## 📚 学习资源
 - [Python官方文档](https://docs.python.org/3/)
